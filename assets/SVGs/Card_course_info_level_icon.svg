@@ -1,0 +1,12 @@
+<svg fill="none" xmlns="http://www.w3.org/2000/svg" width="28" height="28">
+                                    <g clip-path="url(#icon-level-introductory_svg__a)" stroke="#F65B66"
+                                        stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                        <path d="M21 23V5h4v18h-4zM12 23V11h4v12h-4z" stroke-opacity="0.5"></path>
+                                        <path d="M3 23v-8h4v8H3z"></path>
+                                    </g>
+                                    <defs>
+                                        <clipPath id="icon-level-introductory_svg__a">
+                                            <path fill="currentColor" d="M0 0h28v28H0z"></path>
+                                        </clipPath>
+                                    </defs>
+                                </svg>
