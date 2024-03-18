@@ -533,3 +533,48 @@ body {
 .pad2{
     margin-top: 50px;
 }
+footer{
+    height: 302px;
+    width: 100vw;
+    padding: 64px;
+    background-color: #455B66;
+}
+footer .footer_main_div{
+    max-width: 1200px;
+    margin: auto;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center; 
+}
+.footer_main_div .footer_content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer_main_div .footer_content a{
+    color: #F65B66;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: "Inter", sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    margin: 0 20px;
+}
+.footer_main_div .footer_content a:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.footer_main_div .social_icons{
+    display: flex;
+    align-items: end;
+}
+.footer_main_div .social_icons img{
+    height: 24px;
+    width: 24px;
+    margin: 12px;
+}
+.footer_main_div .social_icons img:hover{
+    cursor: pointer;
+}
